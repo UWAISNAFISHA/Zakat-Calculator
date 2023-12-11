@@ -1,0 +1,13 @@
+<resources>
+<string name="app_name">ZakatCalculator</string>
+<string-array name="status">
+    <item>Keep</item>
+    <item>Wear</item>
+
+</string-array>
+<string name="name">NAME: UWAIS NAFISHA BINTI ZURHAN</string>
+<string name="gp">GROUP:RSC2405B/CS240</string>
+<string name="id">STUDENT ID: 2021820184</string>
+<string name="copyright">Copyright &#169; 2023 UWAIS</string>
+<string name="hyperlink"><a href="https://github.com/UWAISNAFISHA/Zakat-Calculator.git">Source Code Link</a></string>
+</resources>
